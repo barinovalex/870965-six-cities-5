@@ -15,7 +15,7 @@
 * Jest, enzyme - для тестирования.
 
 
-Рабочая версия сайта лежит на [GitHub pages]().
+Рабочая версия сайта лежит на [GitHub pages](https://barinovalex.github.io/870965-six-cities-5/).
 
 ---
 
